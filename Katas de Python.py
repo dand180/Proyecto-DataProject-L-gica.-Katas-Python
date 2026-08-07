@@ -744,7 +744,7 @@ def procesar_texto (opción, *args):
 
 
 
-procesar_texto("reemplazar", texto, "oscuro", "Hitler")
+procesar_texto("reemplazar", texto, "oscuro", "Malo")
 
 texto =( 
 """Tres Anillos para los Reyes Elfos bajo el cielo Siete para los Señores Enanos en palacios de piedra.
